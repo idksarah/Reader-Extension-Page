@@ -1,0 +1,23 @@
+#thankYou {
+    font-size: 40px;
+}
+
+.bigDiv{
+    display: flex;
+    justify-content: center;
+    padding-top: -20px;
+}
+
+.content {
+    flex-direction: column;
+    padding: 30px;
+}
+
+.text {
+    font-size: 20px;
+}
+
+.bullPhoto{
+    height: 300px;
+    width: auto;
+}
